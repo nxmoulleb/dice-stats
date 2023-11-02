@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 import statistics
 import random
-TOKEN = "ODUyOTcyNzU3NTg3MDY2ODgx.GbiVgt.-51zi2VC1vxouqhQDDjGw_0qTNB6wIbEVgwdXM"
+TOKEN = "s"
 
 bot = commands.Bot(intents=discord.Intents.all(), command_prefix='-')
 
